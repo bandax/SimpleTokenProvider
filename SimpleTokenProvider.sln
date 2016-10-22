@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{253C448D-6DEE-44D4-9982-88FE9A7C3069}"
 EndProject
@@ -15,6 +15,8 @@ EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SimpleTokenProvider.Test", "test\SimpleTokenProvider.Test\SimpleTokenProvider.Test.xproj", "{D07748BD-2C78-4DB8-AB9E-B26D89E1CE74}"
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SimpleTokenProvider", "src\SimpleTokenProvider\SimpleTokenProvider.xproj", "{7296ED00-D6D3-4EA1-9EC6-A3E757ADF8B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular-TypeScript", "Angular-TypeScript\Angular-TypeScript.csproj", "{81E25F76-892C-416F-9CC7-B7C74FD578FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,6 +32,10 @@ Global
 		{7296ED00-D6D3-4EA1-9EC6-A3E757ADF8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7296ED00-D6D3-4EA1-9EC6-A3E757ADF8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7296ED00-D6D3-4EA1-9EC6-A3E757ADF8B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E25F76-892C-416F-9CC7-B7C74FD578FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E25F76-892C-416F-9CC7-B7C74FD578FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E25F76-892C-416F-9CC7-B7C74FD578FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E25F76-892C-416F-9CC7-B7C74FD578FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
